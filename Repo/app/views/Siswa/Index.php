@@ -28,7 +28,7 @@
 
 <div class="modal fade" id="formModal" tabindex="-1" aria-labelledby="judulModal" aria-hidden="true">
   <div class="modal-dialog">
-    <div class="modal-content bg-dark text-light border border-light p-5">
+    <div class="modal-content">
       <div class="modal-header">
         <h1 class="modal-title fs-5" id="formmodalLabel">Tambah Data Siswa</h1>
         <button type="button" class="btn-close btn-light" data-bs-dismiss="modal" aria-label="Close"></button>
